@@ -8,6 +8,8 @@ TagManager:
   - Celownik
   - bohatyr
   - DOORS
+  - Enemy
+  - Shot
   layers:
   - Default
   - TransparentFX
@@ -17,8 +19,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Enemy
+  - Maps
   - 
   - 
   - 
